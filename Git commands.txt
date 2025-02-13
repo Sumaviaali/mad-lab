@@ -1,0 +1,9 @@
+Git commands:
+
+echo "# Mad-labs" >>README.md
+git intit
+git README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Sumaviaali/mad-lab
+git push -u origin main
